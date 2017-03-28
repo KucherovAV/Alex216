@@ -1,6 +1,0 @@
-
-print("Hello World");
-print("Hello to everybody");
-print("Hello");
-print("nihao");
-print("nice to meet you");
